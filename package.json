@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "containers_products_generator": "^1.0.2",
+    "containers_products_generator": "^1.0.5",
     "express": "^4.17.1"
   }
 }

@@ -1,14 +1,5 @@
 [
   {
-    "name": "Spaguetti",
-    "description": "Italian dish",
-    "code": "TACADSDS",
-    "id": "5b41b448-8cd6-49fe-8436-e672423fee44",
-    "timestmap": "November 17th 2021, 9:36:38 pm",
-    "url": 25,
-    "price": "fjdkfjdlf"
-  },
-  {
     "name": "Tacos",
     "description": "Mexican dish",
     "price": 25,
